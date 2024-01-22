@@ -27,6 +27,8 @@ class CfgPatches {
         };
         magazines[] = {
             "KAT_CAS_M43_Mag"
+            "KAT_1Rnd_82mm_Mo_Type0",
+            "KAT_1Rnd_82mm_Mo_TypeCS"
         };
         requiredAddons[] = {
             "kat_main",
